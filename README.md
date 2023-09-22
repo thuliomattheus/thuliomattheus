@@ -10,7 +10,7 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
   ![Java](https://img.shields.io/badge/Java-Java?style=flat-square&logo=openjdk&color=black&logoColor=437291)
-  ![Kotlin](https://img.shields.io/badge/Kotlin-Kotlin?style=flat-square&logo=kotlin&color=black)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-Kotlin?style=flat-square&logo=kotlin&color=181717)
   ![Javascript](https://img.shields.io/badge/Javascript-javascript?style=flat-square&logo=javascript&color=black)
   ![Python](https://img.shields.io/badge/Python-Python?style=flat-square&logo=python&color=black)
 
