@@ -4,10 +4,10 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
 
 <center>
 
-  ![Git](https://img.shields.io/badge/Git-Git-black?style=flat-square&logo=git&color=111111)
-  ![GitHub](https://img.shields.io/badge/GitHub-GitHub-181717?style=flat-square&logo=github&color=111111)
-  ![GitLab](https://img.shields.io/badge/GitLab-GitLab-181717?style=flat-square&logo=gitlab&color=111111)
-  ![BitBucket](https://img.shields.io/badge/BitBucket-BitBucket-181717?style=flat-square&logo=bitbucket&color=111111)
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&color=111111)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&color=111111)
+  ![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitlab&color=111111)
+  ![BitBucket](https://img.shields.io/badge/BitBucket-BitBucket?style=flat-square&logo=bitbucket&color=111111)
 
   ![Java](https://img.shields.io/badge/Java-Java?style=flat-square&logo=openjdk&color=111111)
   ![Kotlin](https://img.shields.io/badge/Kotlin-Kotlin?style=flat-square&logo=kotlin&color=111111)
