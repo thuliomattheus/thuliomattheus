@@ -29,7 +29,7 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
   ![MySQL](https://img.shields.io/badge/MySQL-MySQL?style=flat-square&logo=mysql&color=black&logoColor=4479A1)
   ![Redis](https://img.shields.io/badge/Redis-Redis?style=flat-square&logo=redis&color=black&logoColor=DC382D)
 
-  ![Apache Kafka](https://img.shields.io/badge/ApacheKafka-ApachaKafka?style=flat-square&logo=apachekafka&color=black&logoColor=white) 
+  ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-Apacha_Kafka?style=flat-square&logo=apachekafka&color=black&logoColor=white) 
 
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&color=black&logoColor=blue)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
