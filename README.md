@@ -30,6 +30,12 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
 
   ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-Apacha_Kafka?style=flat-square&logo=apachekafka&color=111111&logoColor=white)
 
+  ![Jenkins](https://img.shields.io/badge/Jenkins-Jenkins?style=flat-square&logo=jenkins&color=111111)
+  ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-GitHub_Actions?style=flat-square&logo=githubactions&color=111111)
+
+  ![SonarLint](https://img.shields.io/badge/SonarLint-SonarLint?style=flat-square&logo=sonarlint&color=111111)
+  ![SonarQube](https://img.shields.io/badge/SonarQube-SonarQube?style=flat-square&logo=sonarqube&color=111111)
+
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&color=111111&logoColor=blue)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains&color=111111)
 
