@@ -17,10 +17,11 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
   ![Javascript](https://img.shields.io/badge/Javascript-javascript?style=flat-square&logo=javascript&color=111111)
 
   ![Gradle](https://img.shields.io/badge/Gradle-Gradle?style=flat-square&logo=spring&color=111111&logoColor=white)
-  ![Apache Maven](https://img.shields.io/badge/Apacha_Maven-Apache_Maven?style=flat-square&logo=apachemaven&color=111111&logoColor=C71A36)
+  ![Apache Maven](https://img.shields.io/badge/Apacha_Maven-Apache_Maven?style=flat-square&logo=apachemaven&color=111111)
 
-  ![JUnit](https://img.shields.io/badge/JUnit-JUnit?style=flat-square&logo=junit5&color=111111&logoColor=25A162)
-  ![Jest](https://img.shields.io/badge/Jest-Jest?style=flat-square&logo=jest&color=111111&logoColor=C21325)
+  ![JUnit](https://img.shields.io/badge/JUnit-JUnit?style=flat-square&logo=junit5&color=111111)
+  ![Jest](https://img.shields.io/badge/Jest-Jest?style=flat-square&logo=jest&color=111111)
+  ![Cypress](https://img.shields.io/badge/Cypress-Cypress?style=flat-square&logo=cypress&color=111111)
 
   ![Spring](https://img.shields.io/badge/Spring-Spring?style=flat-square&logo=spring&color=111111&logoColor=green)
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-Spring_Boot?style=flat-square&logo=springboot&color=111111&logoColor=green)
