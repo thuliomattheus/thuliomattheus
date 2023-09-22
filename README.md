@@ -9,13 +9,13 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-  ![Java](https://img.shields.io/badge/Java-Java?style=flat-square&logo=openjdk&color=181717&logoColor=437291)
+  ![Java](https://img.shields.io/badge/Java-Java?style=flat-square&logo=openjdk&color=111111&logoColor=437291)
   ![Kotlin](https://img.shields.io/badge/Kotlin-Kotlin?style=flat-square&logo=kotlin&color=111111)
-  ![Javascript](https://img.shields.io/badge/Javascript-javascript?style=flat-square&logo=javascript&color=181717)
-  ![Python](https://img.shields.io/badge/Python-Python?style=flat-square&logo=python&color=181717)
+  ![Javascript](https://img.shields.io/badge/Javascript-javascript?style=flat-square&logo=javascript&color=111111)
+  ![Python](https://img.shields.io/badge/Python-Python?style=flat-square&logo=python&color=111111)
 
-  ![Gradle](https://img.shields.io/badge/Gradle-Gradle?style=flat-square&logo=spring&color=black&logoColor=white)
-  ![Apache Maven](https://img.shields.io/badge/ApachaMaven-ApacheMaven?style=flat-square&logo=apachemaven&color=black&logoColor=C71A36)
+  ![Gradle](https://img.shields.io/badge/Gradle-Gradle?style=flat-square&logo=spring&color=111111&logoColor=white)
+  ![Apache Maven](https://img.shields.io/badge/ApachaMaven-ApacheMaven?style=flat-square&logo=apachemaven&color=111111&logoColor=C71A36)
 
   ![JUnit](https://img.shields.io/badge/JUnit-JUnit?style=flat-square&logo=junit5&color=black&logoColor=25A162)
   ![Jest](https://img.shields.io/badge/Jest-Jest?style=flat-square&logo=jest&color=black&logoColor=C21325)
