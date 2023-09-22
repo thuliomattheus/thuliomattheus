@@ -21,7 +21,7 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
   ![Jest](https://img.shields.io/badge/Jest-Jest?style=flat-square&logo=jest&color=black&logoColor=C21325)
 
   ![Spring](https://img.shields.io/badge/Spring-Spring?style=flat-square&logo=spring&color=black&logoColor=green)
-  ![Spring Boot](https://img.shields.io/badge/SpringBoot-SpringBoot?style=flat-square&logo=springboot&color=black&logoColor=green)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-Spring_Boot?style=flat-square&logo=springboot&color=black&logoColor=green)
   ![Spring Security](https://img.shields.io/badge/SpringSecurity-SpringSecurity?style=flat-square&logo=springsecurity&color=black&logoColor=green)
 
   ![MongoDB](https://img.shields.io/badge/MongoDB-MongoDB?style=flat-square&logo=mongodb&color=black&logoColor=47A248)
