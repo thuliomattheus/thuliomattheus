@@ -24,25 +24,25 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-Spring_Boot?style=flat-square&logo=springboot&color=black&logoColor=green)
   ![Spring Security](https://img.shields.io/badge/Spring_Security-Spring_Security?style=flat-square&logo=springsecurity&color=black&logoColor=green)
 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-MongoDB?style=flat-square&logo=mongodb&color=black&logoColor=47A248)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-PostgreSQL?style=flat-square&logo=postgresql&color=black&logoColor=4169E1)
-  ![MySQL](https://img.shields.io/badge/MySQL-MySQL?style=flat-square&logo=mysql&color=black&logoColor=4479A1)
-  ![Redis](https://img.shields.io/badge/Redis-Redis?style=flat-square&logo=redis&color=black&logoColor=DC382D)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-MongoDB?style=flat-square&logo=mongodb&color=111111&logoColor=47A248)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-PostgreSQL?style=flat-square&logo=postgresql&color=111111&logoColor=4169E1)
+  ![MySQL](https://img.shields.io/badge/MySQL-MySQL?style=flat-square&logo=mysql&color=111111&logoColor=4479A1)
+  ![Redis](https://img.shields.io/badge/Redis-Redis?style=flat-square&logo=redis&color=111111&logoColor=DC382D)
 
-  ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-Apacha_Kafka?style=flat-square&logo=apachekafka&color=black&logoColor=white) 
+  ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-Apacha_Kafka?style=flat-square&logo=apachekafka&color=111111&logoColor=white)
 
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&color=black&logoColor=blue)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&color=111111&logoColor=blue)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
 
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-  ![Docker](https://img.shields.io/badge/Docker-Docker?style=flat-square&logo=docker&color=black&logoColor=blue)
+  ![Docker](https://img.shields.io/badge/Docker-Docker?style=flat-square&logo=docker&color=111111&logoColor=blue)
 
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-Ubuntu?style=flat-square&logo=ubuntu&color=black&logoColor=E95420)
-  ![Windows](https://img.shields.io/badge/Windows-Windows?style=flat-square&logo=windows&color=black&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-Bash?style=flat-square&logo=gnubash&color=black&logoColor=4EAA25)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-Ubuntu?style=flat-square&logo=ubuntu&color=111111&logoColor=E95420)
+  ![Windows](https://img.shields.io/badge/Windows-Windows?style=flat-square&logo=windows&color=111111&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-Bash?style=flat-square&logo=gnubash&color=111111&logoColor=4EAA25)
 
-  ![Slack](https://img.shields.io/badge/Slack-Slack?style=flat-square&logo=slack&color=black&logoColor=FFFFFF)
-  ![Zoom](https://img.shields.io/badge/Zoom-Zoom?style=flat-square&logo=zoom&color=black&logoColor=0B5CFF)
+  ![Slack](https://img.shields.io/badge/Slack-Slack?style=flat-square&logo=slack&color=111111&logoColor=FFFFFF)
+  ![Zoom](https://img.shields.io/badge/Zoom-Zoom?style=flat-square&logo=zoom&color=111111&logoColor=0B5CFF)
 
 </center>
 
