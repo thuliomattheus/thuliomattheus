@@ -8,9 +8,11 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&color=111111)
 
   ![Java](https://img.shields.io/badge/Java-Java?style=flat-square&logo=openjdk&color=111111)
+  ![C++](https://img.shields.io/badge/C++-C++?style=flat-square&logo=cplusplus&color=111111)
   ![Kotlin](https://img.shields.io/badge/Kotlin-Kotlin?style=flat-square&logo=kotlin&color=111111)
-  ![Javascript](https://img.shields.io/badge/Javascript-javascript?style=flat-square&logo=javascript&color=111111)
   ![Python](https://img.shields.io/badge/Python-Python?style=flat-square&logo=python&color=111111)
+  ![HTML](https://img.shields.io/badge/HTML-HTML?style=flat-square&logo=html5&color=111111)
+  ![Javascript](https://img.shields.io/badge/Javascript-javascript?style=flat-square&logo=javascript&color=111111)
 
   ![Gradle](https://img.shields.io/badge/Gradle-Gradle?style=flat-square&logo=spring&color=111111&logoColor=white)
   ![Apache Maven](https://img.shields.io/badge/Apacha_Maven-Apache_Maven?style=flat-square&logo=apachemaven&color=111111&logoColor=C71A36)
