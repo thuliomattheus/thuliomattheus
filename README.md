@@ -4,8 +4,8 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
 
 <center>
 
-  ![Git](https://img.shields.io/badge/-Git-006AFF?style=flat-square&logo=git&color=111111)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&color=111111)
+  ![Git](https://img.shields.io/badge/Git-Git?style=flat-square&logo=git&color=111111)
+  ![GitHub](https://img.shields.io/badge/GitHub-GitHub?style=flat-square&logo=github&color=111111)
   ![GitLab](https://img.shields.io/badge/GitLab-GitLab?style=flat-square&logo=gitlab&color=111111)
   ![BitBucket](https://img.shields.io/badge/BitBucket-BitBucket?style=flat-square&logo=bitbucket&color=111111)
 
@@ -41,7 +41,7 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
   ![SonarLint](https://img.shields.io/badge/SonarLint-SonarLint?style=flat-square&logo=sonarlint&color=111111)
   ![SonarQube](https://img.shields.io/badge/SonarQube-SonarQube?style=flat-square&logo=sonarqube&color=111111)
 
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&color=111111&logoColor=blue)
+  ![VS Code](https://img.shields.io/badge/VS_Code-VS_Code?style=flat-square&logo=visual-studio-code&color=111111&logoColor=blue)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains&color=111111)
 
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman&color=111111)
