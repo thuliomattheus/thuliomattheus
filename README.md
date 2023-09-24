@@ -51,7 +51,7 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
   ![Windows](https://img.shields.io/badge/Windows-Windows?style=flat-square&logo=windows&color=111111&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-Bash?style=flat-square&logo=gnubash&color=111111&logoColor=4EAA25)
 
-  ![Slack](https://img.shields.io/badge/Slack-Slack?style=flat-square&logo=slack&color=111111&logoColor=FFFFFF)
+  ![Slack](https://img.shields.io/badge/Slack-111111?style=flat-square&logo=slack)
 
 </center>
 
