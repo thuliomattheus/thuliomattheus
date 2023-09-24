@@ -62,7 +62,6 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
 </picture>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=thuliomattheus&theme=transparent&layout=compact&size_weight=0.5&count_weight=0.5">
     <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuliomattheus&theme=transparent&layout=compact&size_weight=0.5&count_weight=0.5">
 </picture>
 
