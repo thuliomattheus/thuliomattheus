@@ -1,29 +1,3 @@
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 50%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 500px) {
-  .column {
-    width: 100%;
-  }
-}
-</style>
-
 I'm Thúlio, currently working as a __Backend Engineer Developer__.
 
 ## 🚀💻 Technologies & Tools
@@ -83,7 +57,7 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
 </center>
 
 <div class="row">
-  <div class="column">
+  <div style="float:left;width: 50%;padding: 5px">
     <img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=thuliomattheus&theme=transparent&show_icons=true&layout=compact">
   </div>
   <div class="column">
