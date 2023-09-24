@@ -23,9 +23,9 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
   ![Jest](https://img.shields.io/badge/Jest-Jest?style=flat-square&logo=jest&color=111111)
   ![Cypress](https://img.shields.io/badge/Cypress-Cypress?style=flat-square&logo=cypress&color=111111)
 
-  ![Spring](https://img.shields.io/badge/Spring-Spring?style=flat-square&logo=spring&color=111111&logoColor=green)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-Spring_Boot?style=flat-square&logo=springboot&color=111111&logoColor=green)
-  ![Spring Security](https://img.shields.io/badge/Spring_Security-Spring_Security?style=flat-square&logo=springsecurity&color=111111&labelColor=green)
+  ![Spring](https://img.shields.io/badge/Spring-Spring?style=flat-square&logo=spring&color=111111)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-Spring_Boot?style=flat-square&logo=springboot&color=111111)
+  ![Spring Security](https://img.shields.io/badge/Spring_Security-Spring_Security?style=flat-square&logo=springsecurity&color=111111)
   ![Django](https://img.shields.io/badge/Django-Django?style=flat-square&logo=django&color=111111)
 
   ![MongoDB](https://img.shields.io/badge/MongoDB-MongoDB?style=flat-square&logo=mongodb&color=111111&logoColor=47A248)
