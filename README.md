@@ -52,9 +52,14 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
   ![Bash](https://img.shields.io/badge/Bash-Bash?style=flat-square&logo=gnubash&color=111111&logoColor=4EAA25)
 
   ![Slack](https://img.shields.io/badge/Slack-Slack?style=flat-square&logo=slack&color=111111&logoColor=FFFFFF)
-  ![Zoom](https://img.shields.io/badge/Zoom-Zoom?style=flat-square&logo=zoom&color=111111&logoColor=0B5CFF)
 
 </center>
+
+
+<p float="left">
+  <img width=50% height=50% src="https://github-readme-stats.vercel.app/api?username=thuliomattheus&theme=transparent&show_icons=true&layout=compact">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuliomattheus&theme=transparent&size_weight=0&count_weight=1&layout=compact">
+</p>
 
 <img width=50% height=50% src="https://github-readme-stats.vercel.app/api?username=thuliomattheus&theme=transparent&show_icons=true&layout=compact">  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuliomattheus&theme=transparent&size_weight=0&count_weight=1&layout=compact">
