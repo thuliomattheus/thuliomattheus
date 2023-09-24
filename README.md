@@ -56,14 +56,5 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
 
 </center>
 
-<div class="row">
-  <div style="float:left;width: 50%;padding: 5px">
-    <img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=thuliomattheus&theme=transparent&show_icons=true&layout=compact">
-  </div>
-  <div class="column">
-    <img style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuliomattheus&theme=transparent&size_weight=0&count_weight=1&layout=compact">
-  </div>
-</div>
-
 <img width=50% height=50% src="https://github-readme-stats.vercel.app/api?username=thuliomattheus&theme=transparent&show_icons=true&layout=compact">  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuliomattheus&theme=transparent&size_weight=0&count_weight=1&layout=compact">
