@@ -47,11 +47,11 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman&color=111111)
   ![Docker](https://img.shields.io/badge/Docker-Docker?style=flat-square&logo=docker&color=111111&logoColor=blue)
 
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-Ubuntu?style=flat-square&logo=ubuntu&color=111111&logoColor=E95420)
-  ![Windows](https://img.shields.io/badge/Windows-Windows?style=flat-square&logo=windows&color=111111&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-111111?style=flat-square&logo=ubuntu)
+  ![Windows](https://img.shields.io/badge/Windows-111111?style=flat-square&logo=windows)
   ![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash)
 
-  ![Slack](https://img.shields.io/badge/Slack-012345?style=flat-square&logo=slack)
+  ![Slack](https://img.shields.io/badge/Slack-111111?style=flat-square&logo=slack)
 
 </center>
 
