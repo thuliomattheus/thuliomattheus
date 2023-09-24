@@ -1,3 +1,29 @@
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+
 I'm Thúlio, currently working as a __Backend Engineer Developer__.
 
 ## 🚀💻 Technologies & Tools
@@ -56,6 +82,14 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
 
 </center>
 
-<img width=50% height=50% src="https://github-readme-stats.vercel.app/api?username=thuliomattheus&theme=transparent&show_icons=true&layout=compact">
-  
+<div class="row">
+  <div class="column">
+    <img style="width:100%" src="https://github-readme-stats.vercel.app/api?username=thuliomattheus&theme=transparent&show_icons=true&layout=compact">
+  </div>
+  <div class="column">
+    <img style="width:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuliomattheus&theme=transparent&size_weight=0&count_weight=1&layout=compact">
+  </div>
+</div>
+
+<img width=50% height=50% src="https://github-readme-stats.vercel.app/api?username=thuliomattheus&theme=transparent&show_icons=true&layout=compact">  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuliomattheus&theme=transparent&size_weight=0&count_weight=1&layout=compact">
