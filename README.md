@@ -56,8 +56,6 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
 
 </center>
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=thuliomattheus&theme=transparent&show_icons=true">
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=thuliomattheus&theme=transparent&show_icons=true">
   
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuliomattheus&theme=transparent&size_weight=0.5&count_weight=0.5\&layout=compact">
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-LinkedIn?style=flat-square&logo=linkedin&color=111111&logoColor=0A66C2)
+<img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuliomattheus&theme=transparent&size_weight=0.5&count_weight=0.5\&layout=compact">
