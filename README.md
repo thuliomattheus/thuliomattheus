@@ -52,11 +52,10 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
   ![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash)
 
   ![Slack](https://img.shields.io/badge/Slack-111111?style=flat-square&logo=slack)
-
 </center>
 
 
-<p align="center">
+<p">
   <img align="left" width=52% src="https://github-readme-stats.vercel.app/api?username=thuliomattheus&theme=transparent&show_icons=true">  
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuliomattheus&theme=transparent&size_weight=0&count_weight=1&layout=compact">
 </p>
