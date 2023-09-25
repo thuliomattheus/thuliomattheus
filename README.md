@@ -9,7 +9,7 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
   ![GitLab](https://img.shields.io/badge/GitLab-111111?style=flat-square&logo=gitlab)
   ![BitBucket](https://img.shields.io/badge/BitBucket-111111?style=flat-square&logo=bitbucket)
 
-  ![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
+  ![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk)
   ![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=flat-square&logo=kotlin)
   ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python)
   ![C++](https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus)
