@@ -1,3 +1,5 @@
+<img align='right' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fopensea.io%2Fassets%2Fmatic%2F0x2953399124f0cbb46d2cbacd8a89cf0599974963%2F21559929566403624111982929353305204230430020936130636660494083327335835107353&psig=AOvVaw0avnlhXnaFgBPBXUhPJ62M&ust=1695735708645000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwi3rtL18cWBAxUSkZUCHXiHDzMQjRx6BAgAEAw' width='200'>
+
 I'm Thúlio, currently working as a __Backend Engineer Developer__.
 
 ## 🚀💻 Technologies & Tools
