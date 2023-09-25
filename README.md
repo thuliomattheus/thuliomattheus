@@ -49,7 +49,7 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
   ![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker)
 
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-111111?style=flat-square&logo=ubuntu)
-  ![Windows](https://img.shields.io/badge/Windows-111111?style=flat-square&logo=windows)
+  ![Windows](https://img.shields.io/badge/Windows-111111?style=flat-square&logo=windows&logoColor=0078D4)
   ![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash)
 
   ![Jira](https://img.shields.io/badge/Jira-111111?style=flat-square&logo=jira&logoColor=0052CC)
