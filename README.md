@@ -23,7 +23,7 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
 
   ![JUnit](https://img.shields.io/badge/JUnit-111111?style=flat-square&logo=junit5)
   ![Cucumber](https://img.shields.io/badge/Cucumber-111111?style=flat-square&logo=cucumber)
-  ![Jest](https://img.shields.io/badge/Jest-111111?style=flat-square&logo=jest)
+  ![Jest](https://img.shields.io/badge/Jest-111111?style=flat-square&logo=jest&logoColor=C21325)
   ![Cypress](https://img.shields.io/badge/Cypress-111111?style=flat-square&logo=cypress)
 
   ![Spring](https://img.shields.io/badge/Spring-111111?style=flat-square&logo=spring)
@@ -44,7 +44,7 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
   ![SonarLint](https://img.shields.io/badge/SonarLint-111111?style=flat-square&logo=sonarlint)
   ![SonarQube](https://img.shields.io/badge/SonarQube-111111?style=flat-square&logo=sonarqube)
 
-  ![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visual-studio-code)
+  ![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
   ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-111111?style=flat-square&logo=jetbrains)
 
   ![Postman](https://img.shields.io/badge/Postman-111111?style=flat-square&logo=postman)
