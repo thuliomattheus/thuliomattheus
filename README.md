@@ -52,7 +52,7 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
   ![Windows](https://img.shields.io/badge/Windows-111111?style=flat-square&logo=windows)
   ![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash)
 
-  ![Jira](https://img.shields.io/badge/Jira-111111?style=flat-square&logo=jira)
+  ![Jira](https://img.shields.io/badge/Jira-111111?style=flat-square&logo=jira&logoColor=0052CC)
 
   ![Slack](https://img.shields.io/badge/Slack-111111?style=flat-square&logo=slack)
 </center>
