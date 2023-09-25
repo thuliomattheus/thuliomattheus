@@ -20,6 +20,7 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
   ![Apache Maven](https://img.shields.io/badge/Apacha_Maven-111111?style=flat-square&logo=apachemaven)
 
   ![JUnit](https://img.shields.io/badge/JUnit-111111?style=flat-square&logo=junit5)
+  ![Cucumber](https://img.shields.io/badge/Cucumber-111111?style=flat-square&logo=cucumber)
   ![Jest](https://img.shields.io/badge/Jest-111111?style=flat-square&logo=jest)
   ![Cypress](https://img.shields.io/badge/Cypress-111111?style=flat-square&logo=cypress)
 
