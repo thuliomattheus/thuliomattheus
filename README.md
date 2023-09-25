@@ -1,4 +1,4 @@
-<img align='right' src='https://i.pinimg.com/originals/78/e0/32/78e03222bd68257f931e619b13496e7c.gif' padding-right='30%' width='25%'>
+<img align='right' src='https://i.pinimg.com/originals/78/e0/32/78e03222bd68257f931e619b13496e7c.gif' width='25%'>
 
 I'm Thúlio, currently working as a __Backend Engineer Developer__.
 
