@@ -4,7 +4,7 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
 
 <center>
 
-  ![Git](https://img.shields.io/badge/Git-111111?logo=git)
+  ![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github)
   ![GitLab](https://img.shields.io/badge/GitLab-111111?style=flat-square&logo=gitlab)
   ![BitBucket](https://img.shields.io/badge/BitBucket-111111?style=flat-square&logo=bitbucket)
