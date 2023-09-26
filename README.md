@@ -1,6 +1,45 @@
-<img align='right' src='https://i.pinimg.com/originals/78/e0/32/78e03222bd68257f931e619b13496e7c.gif' width='25%'>
+<img align='right' src='https://i.pinimg.com/originals/78/e0/32/78e03222bd68257f931e619b13496e7c.gif' width='13%'>
 
-I'm Thúlio, currently working as a __Backend Engineer Developer__.
+### Profile
+```yaml
+name: "Thúlio Sousa"
+birth_date: "July 13, 1994"
+located_in: "Natal, BR"
+from: "Niteróí, BR"
+job: {
+    title: "Senior Backend Engineer",
+    company: "Invillia"
+}
+education: {
+    titles: [
+        "I.T. Specialist at Pharmaceutical Industry Software - SIGNUPLAM",
+        "Bachelor's Degree in Science and Technology",
+        "Bachelor's Degree in Computer Engineering"
+    ],
+    companies: [
+        "Universidade Federal do Rio Grande do Norte", "NUPLAM"
+    ]
+}
+past experiences: [
+  ["Senior Backend Engineer", "IBM", "Bradesco Seguros", "Fully Remote", "2021-2022"],
+  ["Backend Engineer II", "Matera", "Internal Systems", "Fully Remote", "2021-2021"],
+  ["Backend Engineer II", "Segware", "Internal Systems", "Fully Remote", "2020-2021"],
+  ["Junior Software Engineer", "Everis - NTT Data", "Banco Itaú", "Fully Remote", "2020-2020"],
+  ["Full-Stack Software Engineer", "NUPLAM", "Signuplam", "Natal, Brazil", "2019-2020"],
+  ["Full-Stack Software Engineer Trainee", "DATAPREV", "Internal Systems", "Natal, Brazil", "2017-2019"]
+]
+technical_background: [
+    "Data Modeling", "Data Structures", "Design Patterns", "Clean Code", "Refactoring",
+    "Unit, Integration and Interface Tests", "Quality and Security Monitor Tools",
+    "Rest APIs", "Microservices", "Software Architecture", "Messaging Architectures",
+    "Async Communication", "Observability and Monitoring", "Containerization", "DevSecOps",
+    "Cryptography", "Digital Signature Algorithms", "BlockChain", "Keystore and Truststore"
+]
+hobbies: [
+    "Chelsea FC", "CR Flamengo", "XBOX", "Logic Games", "Football", "Pizza", "Sushi", "Churrasco"
+]
+```
+<br/>
 
 ### Technologies & Tools
 
@@ -70,6 +109,8 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
   ![Slack](https://img.shields.io/badge/Slack-111111?style=flat-square&logo=slack)
 </center>
 
+<br/>
+
 ### Certifications
 <a href="https://www.credly.com/badges/042fde24-68ab-4375-b440-934669741cd4" title="AWS Certified Cloud Practitioner">
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner Badge" width="135px" />
@@ -90,10 +131,17 @@ I'm Thúlio, currently working as a __Backend Engineer Developer__.
   <img src="https://images.credly.com/size/340x340/images/81bb04b6-3f75-4e76-96c8-a3b617acdf80/App_Modernization_Basics.png" alt="IBM App Modernization Basics Badge" width="135px" />
 </a>
 
+<br/>
+
+### GitHub Trophies
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=thuliomattheus&theme=algolia&column=-1" />
+</p>
+
+<br/>
+
 ### GitHub Stats
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuliomattheus&theme=transparent&size_weight=0&count_weight=1&layout=compact">
   <img align="center" width=47% src="https://github-readme-stats.vercel.app/api?username=thuliomattheus&theme=transparent&show_icons=true&rank_icon=github">  
 </p>
-
-<!-- ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=thuliomattheus) -->
