@@ -137,7 +137,6 @@ hobbies: [
 </p>
 
 <br/>
-<br/>
 
 ### GitHub Stats
 <p>
