@@ -132,10 +132,9 @@ hobbies: [
 <br/>
 
 ### GitHub Trophies
-<p>
-    <img align="left" src="https://github-profile-trophy.vercel.app/?username=thuliomattheus&theme=algolia&column=-1" />
-</p>
+    <img src="https://github-profile-trophy.vercel.app/?username=thuliomattheus&theme=algolia&column=-1" />
 
+<br/>
 <br/>
 
 ### GitHub Stats
