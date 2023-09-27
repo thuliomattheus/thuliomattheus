@@ -1,5 +1,6 @@
 <img align='right' src='https://i.pinimg.com/originals/78/e0/32/78e03222bd68257f931e619b13496e7c.gif' width='13%'>
 
+<br/><br/><br/>
 ### Profile
 ```yaml
 name: "Thúlio Sousa"
@@ -43,71 +44,68 @@ hobbies: [
 
 ### Technologies & Tools
 
-<center>
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-111111?style=flat-square&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/BitBucket-111111?style=flat-square&logo=bitbucket&logoColor=0052CC)
 
-  ![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github)
-  ![GitLab](https://img.shields.io/badge/GitLab-111111?style=flat-square&logo=gitlab)
-  ![BitBucket](https://img.shields.io/badge/BitBucket-111111?style=flat-square&logo=bitbucket&logoColor=0052CC)
+![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk)
+![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=flat-square&logo=kotlin)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=00599C)
+![HTML](https://img.shields.io/badge/HTML-111111?style=flat-square&logo=html5)
+![Javascript](https://img.shields.io/badge/Javascript-111111?style=flat-square&logo=javascript)
 
-  ![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk)
-  ![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=flat-square&logo=kotlin)
-  ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python)
-  ![C++](https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=00599C)
-  ![HTML](https://img.shields.io/badge/HTML-111111?style=flat-square&logo=html5)
-  ![Javascript](https://img.shields.io/badge/Javascript-111111?style=flat-square&logo=javascript)
+![Gradle](https://img.shields.io/badge/Gradle-111111?style=flat-square&logo=spring)
+![Apache Maven](https://img.shields.io/badge/Apacha_Maven-111111?style=flat-square&logo=apachemaven&logoColor=C71A36)
 
-  ![Gradle](https://img.shields.io/badge/Gradle-111111?style=flat-square&logo=spring)
-  ![Apache Maven](https://img.shields.io/badge/Apacha_Maven-111111?style=flat-square&logo=apachemaven&logoColor=C71A36)
+![JUnit](https://img.shields.io/badge/JUnit-111111?style=flat-square&logo=junit5)
+![Cucumber](https://img.shields.io/badge/Cucumber-111111?style=flat-square&logo=cucumber)
+![Jest](https://img.shields.io/badge/Jest-111111?style=flat-square&logo=jest&logoColor=C21325)
+![Cypress](https://img.shields.io/badge/Cypress-111111?style=flat-square&logo=cypress)
 
-  ![JUnit](https://img.shields.io/badge/JUnit-111111?style=flat-square&logo=junit5)
-  ![Cucumber](https://img.shields.io/badge/Cucumber-111111?style=flat-square&logo=cucumber)
-  ![Jest](https://img.shields.io/badge/Jest-111111?style=flat-square&logo=jest&logoColor=C21325)
-  ![Cypress](https://img.shields.io/badge/Cypress-111111?style=flat-square&logo=cypress)
+![Spring](https://img.shields.io/badge/Spring-111111?style=flat-square&logo=spring)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=flat-square&logo=springboot)
+![Spring Security](https://img.shields.io/badge/Spring_Security-111111?style=flat-square&logo=springsecurity)
+![Django](https://img.shields.io/badge/Django-111111?style=flat-square&logo=django&logoColor=092E20)
 
-  ![Spring](https://img.shields.io/badge/Spring-111111?style=flat-square&logo=spring)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=flat-square&logo=springboot)
-  ![Spring Security](https://img.shields.io/badge/Spring_Security-111111?style=flat-square&logo=springsecurity)
-  ![Django](https://img.shields.io/badge/Django-111111?style=flat-square&logo=django&logoColor=092E20)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql)
+![MariaDB](https://img.shields.io/badge/MariaDB-111111?style=flat-square&logo=mariadb)
+![SQLite](https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqLite&logoColor=003B57)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-111111?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis)
 
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql)
-  ![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql)
-  ![MariaDB](https://img.shields.io/badge/MariaDB-111111?style=flat-square&logo=mariadb)
-  ![SQLite](https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqLite&logoColor=003B57)
-  ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-111111?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb)
-  ![Redis](https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-111111?style=flat-square&logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/Rabbit_MQ-111111?style=flat-square&logo=rabbitmq&logoColor=FF6600)
+![Celery](https://img.shields.io/badge/Celery-111111?style=flat-square&logo=celery&logoColor=37814A)
 
-  ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-111111?style=flat-square&logo=apachekafka)
-  ![RabbitMQ](https://img.shields.io/badge/Rabbit_MQ-111111?style=flat-square&logo=rabbitmq&logoColor=FF6600)
-  ![Celery](https://img.shields.io/badge/Celery-111111?style=flat-square&logo=celery&logoColor=37814A)
+![Jenkins](https://img.shields.io/badge/Jenkins-111111?style=flat-square&logo=jenkins)
+![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=flat-square&logo=githubactions)
 
-  ![Jenkins](https://img.shields.io/badge/Jenkins-111111?style=flat-square&logo=jenkins)
-  ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=flat-square&logo=githubactions)
+![SonarLint](https://img.shields.io/badge/SonarLint-111111?style=flat-square&logo=sonarlint&logoColor=CB2029)
+![SonarQube](https://img.shields.io/badge/SonarQube-111111?style=flat-square&logo=sonarqube)
+![Snyk](https://img.shields.io/badge/Snyk-111111?style=flat-square&logo=snyk&logoColor=4C4A73)
 
-  ![SonarLint](https://img.shields.io/badge/SonarLint-111111?style=flat-square&logo=sonarlint&logoColor=CB2029)
-  ![SonarQube](https://img.shields.io/badge/SonarQube-111111?style=flat-square&logo=sonarqube)
-  ![Snyk](https://img.shields.io/badge/Snyk-111111?style=flat-square&logo=snyk&logoColor=4C4A73)
+![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-111111?style=flat-square&logo=intellijidea)
 
-  ![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-  ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-111111?style=flat-square&logo=intellijidea)
+![Postman](https://img.shields.io/badge/Postman-111111?style=flat-square&logo=postman)
 
-  ![Postman](https://img.shields.io/badge/Postman-111111?style=flat-square&logo=postman)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker)
+![Rancher](https://img.shields.io/badge/Rancher-111111?style=flat-square&logo=rancher&logoColor=0075A8)
 
-  ![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker)
-  ![Rancher](https://img.shields.io/badge/Rancher-111111?style=flat-square&logo=rancher&logoColor=0075A8)
+![New Relic](https://img.shields.io/badge/NewRelic-111111?style=flat-square&logo=newrelic&logoColor=1CE783)
+![Grafana](https://img.shields.io/badge/Grafana-111111?style=flat-square&logo=grafana&logoColor=F46800)
 
-  ![New Relic](https://img.shields.io/badge/NewRelic-111111?style=flat-square&logo=newrelic&logoColor=1CE783)
-  ![Grafana](https://img.shields.io/badge/Grafana-111111?style=flat-square&logo=grafana&logoColor=F46800)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-111111?style=flat-square&logo=ubuntu)
+![Windows](https://img.shields.io/badge/Windows-111111?style=flat-square&logo=windows&logoColor=0078D4)
+![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash)
 
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-111111?style=flat-square&logo=ubuntu)
-  ![Windows](https://img.shields.io/badge/Windows-111111?style=flat-square&logo=windows&logoColor=0078D4)
-  ![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash)
+![Jira](https://img.shields.io/badge/Jira-111111?style=flat-square&logo=jira&logoColor=0052CC)
 
-  ![Jira](https://img.shields.io/badge/Jira-111111?style=flat-square&logo=jira&logoColor=0052CC)
-
-  ![Slack](https://img.shields.io/badge/Slack-111111?style=flat-square&logo=slack)
-</center>
+![Slack](https://img.shields.io/badge/Slack-111111?style=flat-square&logo=slack)
 
 <br/>
 
@@ -134,10 +132,11 @@ hobbies: [
 <br/>
 
 ### GitHub Trophies
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=thuliomattheus&theme=algolia&column=-1" />
+<p>
+    <img align="left" src="https://github-profile-trophy.vercel.app/?username=thuliomattheus&theme=algolia&column=-1" />
 </p>
 
+<br/>
 <br/>
 
 ### GitHub Stats
