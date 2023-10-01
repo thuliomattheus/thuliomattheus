@@ -44,7 +44,7 @@ hobbies: [
 
 ### Technologies & Tools
 
-![Git](https://img.shields.io/badge/Git-11111F?style=flat-square&logo=git)
+![Git](https://img.shields.io/badge/Git-11112F?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-111111?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/BitBucket-111111?style=flat-square&logo=bitbucket&logoColor=0052CC)
