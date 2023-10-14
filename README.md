@@ -128,6 +128,9 @@ hobbies: [
 <a href="https://www.credly.com/badges/565d64ac-d69c-479f-878e-0ae6b181a608" title="IBM App Modernization Basics">
   <img src="https://images.credly.com/size/340x340/images/81bb04b6-3f75-4e76-96c8-a3b617acdf80/App_Modernization_Basics.png" alt="IBM App Modernization Basics Badge" width="135px" />
 </a>
+<a href="https://www.credly.com/badges/b007e9f7-2ff8-4647-b035-320afa19693d" title="IBM Design Thinking Practitioner">
+  <img src="https://images.credly.com/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" alt="IBM Design Thinking Practitioner Badge" width="135px" />
+</a>
 
 <br/>
 
