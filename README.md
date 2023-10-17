@@ -113,20 +113,20 @@ hobbies: [
 <a href="https://www.credly.com/badges/042fde24-68ab-4375-b440-934669741cd4" title="AWS Certified Cloud Practitioner">
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner Badge" width="135px" />
 </a>
-<a href="https://www.credly.com/badges/df982f90-a642-48a7-9fa7-f839ca35652f" title="IBM Docker Essentials: A Developer Introduction">
-  <img src="https://images.credly.com/size/340x340/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" alt="IBM Docker Essentials Badge" width="135px" />
-</a>
-<a href="https://www.credly.com/badges/c83afe6d-1a04-469b-aceb-9ad8be9368b8" title="IBM Cloud Core">
-  <img src="https://images.credly.com/size/340x340/images/39b80b52-77e4-4da5-9a52-7933c1d3bdd7/IBM_Cloud_Private_-_Foundation_Technology.png" alt="IBM Cloud Core Badge" width="135px" />
-</a>
-<a href="https://www.credly.com/badges/43bcffb7-20fa-4d3e-bd60-9ef508564765" title="IBM Containers & Kubernetes Essentials">
-  <img src="https://images.credly.com/size/340x340/images/b3fc56fe-3146-428d-b379-68a3490d259f/Containers___Kubernetes_Essentials.png" alt="IBM Containers & Kubernetes Essentials Badge" width="135px" />
+<a href="https://www.credly.com/badges/e7096ee6-3e20-4ef0-ae5d-6ef3415a0b11" title="IBM Cloud Core">
+  <img src="https://images.credly.com/size/340x340/images/b0607951-b6f7-47d0-af16-7112971ab2ef/Cloud_Core_-_Developer_Skills_Network_-_v3.png" alt="IBM Cloud Core Badge" width="135px" />
 </a>
 <a href="https://www.credly.com/badges/c83afe6d-1a04-469b-aceb-9ad8be9368b8" title="IBM Cloud Private - Foundation Technology">
   <img src="https://images.credly.com/size/340x340/images/39b80b52-77e4-4da5-9a52-7933c1d3bdd7/IBM_Cloud_Private_-_Foundation_Technology.png" alt="IBM Cloud Private Badge" width="135px" />
 </a>
 <a href="https://www.credly.com/badges/565d64ac-d69c-479f-878e-0ae6b181a608" title="IBM App Modernization Basics">
   <img src="https://images.credly.com/size/340x340/images/81bb04b6-3f75-4e76-96c8-a3b617acdf80/App_Modernization_Basics.png" alt="IBM App Modernization Basics Badge" width="135px" />
+</a>
+<a href="https://www.credly.com/badges/df982f90-a642-48a7-9fa7-f839ca35652f" title="IBM Docker Essentials: A Developer Introduction">
+  <img src="https://images.credly.com/size/340x340/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png" alt="IBM Docker Essentials Badge" width="135px" />
+</a>
+<a href="https://www.credly.com/badges/43bcffb7-20fa-4d3e-bd60-9ef508564765" title="IBM Containers & Kubernetes Essentials">
+  <img src="https://images.credly.com/size/340x340/images/b3fc56fe-3146-428d-b379-68a3490d259f/Containers___Kubernetes_Essentials.png" alt="IBM Containers & Kubernetes Essentials Badge" width="135px" />
 </a>
 <a href="https://www.credly.com/badges/b007e9f7-2ff8-4647-b035-320afa19693d" title="IBM Design Thinking Practitioner">
   <img src="https://images.credly.com/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" alt="IBM Design Thinking Practitioner Badge" width="135px" />
