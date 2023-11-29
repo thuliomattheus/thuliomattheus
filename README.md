@@ -113,6 +113,9 @@ hobbies: [
 <a href="https://www.credly.com/badges/042fde24-68ab-4375-b440-934669741cd4" title="AWS Certified Cloud Practitioner">
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner Badge" width="135px" />
 </a>
+<a href="https://www.credential.net/1a6024cf-4c5c-4c9b-ab71-0ed9a3e484e9" title="Redis Certified Developer">
+  <img src="https://templates.images.credential.net/1572937104249628.png" alt="Redis Certified Developer Badge" width="135px" />
+</a>
 <a href="https://www.credly.com/badges/e7096ee6-3e20-4ef0-ae5d-6ef3415a0b11" title="IBM Cloud Core">
   <img src="https://images.credly.com/size/340x340/images/b0607951-b6f7-47d0-af16-7112971ab2ef/Cloud_Core_-_Developer_Skills_Network_-_v3.png" alt="IBM Cloud Core Badge" width="135px" />
 </a>
