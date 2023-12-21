@@ -144,5 +144,4 @@ hobbies: [
 ### GitHub Stats
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuliomattheus&theme=transparent&size_weight=0&count_weight=1&layout=compact">
-  <img align="center" width=47% src="https://github-readme-stats.vercel.app/api?username=thuliomattheus&theme=transparent&show_icons=true&rank_icon=github">  
 </p>
