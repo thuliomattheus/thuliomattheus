@@ -37,7 +37,7 @@ technical_background: [
     "Cryptography", "Digital Signature Algorithms", "BlockChain", "Keystore and Truststore"
 ]
 hobbies: [
-    "Chelsea FC", "CR Flamengo", "XBOX", "Logic Games", "Football", "Pizza", "Sushi", "Churrasco"
+    "Chelsea FC", "CR Flamengo", "XBOX", "Strategy Games", "Visit New Places"
 ]
 ```
 <br/>
@@ -112,6 +112,9 @@ hobbies: [
 ### Certifications
 <a href="https://www.credly.com/badges/042fde24-68ab-4375-b440-934669741cd4" title="AWS Certified Cloud Practitioner">
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner Badge" width="135px" />
+</a>
+<a href="https://www.credly.com/badges/a88a4b97-95ac-40a8-9524-6ff3ff181ad2/public_url" title="GitHub Foundations">
+  <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations Badge" width="135px" />
 </a>
 <a href="https://www.credential.net/1a6024cf-4c5c-4c9b-ab71-0ed9a3e484e9" title="Redis Certified Developer">
   <img src="https://templates.images.credential.net/1572937104249628.png" alt="Redis Certified Developer Badge" width="135px" />
