@@ -53,8 +53,6 @@ hobbies: [
 ![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=flat-square&logo=kotlin)
 ![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=00599C)
-![HTML](https://img.shields.io/badge/HTML-111111?style=flat-square&logo=html5)
-![Javascript](https://img.shields.io/badge/Javascript-111111?style=flat-square&logo=javascript)
 
 ![Gradle](https://img.shields.io/badge/Gradle-111111?style=flat-square&logo=spring)
 ![Apache Maven](https://img.shields.io/badge/Apacha_Maven-111111?style=flat-square&logo=apachemaven&logoColor=C71A36)
@@ -88,24 +86,11 @@ hobbies: [
 ![SonarQube](https://img.shields.io/badge/SonarQube-111111?style=flat-square&logo=sonarqube)
 ![Snyk](https://img.shields.io/badge/Snyk-111111?style=flat-square&logo=snyk&logoColor=4C4A73)
 
-![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-111111?style=flat-square&logo=intellijidea)
-
-![Postman](https://img.shields.io/badge/Postman-111111?style=flat-square&logo=postman)
-
 ![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker)
 ![Rancher](https://img.shields.io/badge/Rancher-111111?style=flat-square&logo=rancher&logoColor=0075A8)
 
 ![New Relic](https://img.shields.io/badge/NewRelic-111111?style=flat-square&logo=newrelic&logoColor=1CE783)
 ![Grafana](https://img.shields.io/badge/Grafana-111111?style=flat-square&logo=grafana&logoColor=F46800)
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-111111?style=flat-square&logo=ubuntu)
-![Windows](https://img.shields.io/badge/Windows-111111?style=flat-square&logo=windows&logoColor=0078D4)
-![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash)
-
-![Jira](https://img.shields.io/badge/Jira-111111?style=flat-square&logo=jira&logoColor=0052CC)
-
-![Slack](https://img.shields.io/badge/Slack-111111?style=flat-square&logo=slack)
 
 <br/>
 
