@@ -116,14 +116,3 @@ hobbies: [
 <a href="https://www.credly.com/badges/b007e9f7-2ff8-4647-b035-320afa19693d" title="IBM Design Thinking Practitioner">
   <img src="https://images.credly.com/size/340x340/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" alt="IBM Design Thinking Practitioner Badge" width="135px" />
 </a>
-
-<br/>
-
-### GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=thuliomattheus&theme=algolia&column=-1)
-
-
-### GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuliomattheus&theme=transparent&size_weight=0&count_weight=1&layout=compact">
-</p>
