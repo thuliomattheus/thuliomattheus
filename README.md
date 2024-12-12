@@ -95,8 +95,8 @@ hobbies: [
 <br/>
 
 ### Certifications
-<a href="https://www.credly.com/badges/042fde24-68ab-4375-b440-934669741cd4" title="AWS Certified Cloud Practitioner">
-  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner Badge" width="135px" />
+<a href="https://www.credly.com/badges/042fde24-68ab-4375-b440-934669741cd4" title="AWS Cloud Quest: Cloud Practitioner">
+  <img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud Quest - Cloud Practitioner Badge" width="135px" />
 </a>
 <a href="https://credentials.newrelic.com/fd3c122b-bc46-4731-b8c2-c1ff42f4b20a" title="New Relic Full Stack Observability Practitioner">
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/118708734" alt="New Relic Full Stack Observability Practitioner Badge" width="135px" />
